@@ -84,10 +84,9 @@ author:
   avatar           : "BhattacharyaWEB-1_crop.jpg"
   bio              : "Operations Research Scientist"
   location         : "Seattle, WA"
-  employer         : " Pacific Northwest National Laboratory"
-  pubmed           : 
+  employer         : "Pacific Northwest National Laboratory"
   googlescholar    : "https://scholar.google.com/citations?user=6x_D7IUAAAAJ&hl=en"
-  email            :
+  email            : "arnab.bhattacharya@pnnl.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "arnabhattacharya"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/arnabiitkgp/"
+  orcid            : "https://orcid.org/0000-0002-3727-350X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
