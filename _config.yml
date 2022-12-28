@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Arnab Bhattacharya"
   avatar           : "BhattacharyaWEB-1_crop.jpg"
-  bio              : "Operations Research Scientist, Pacific Northwest National Laboratory"
+  bio              : "Operations Research Scientist"
   location         : "Seattle, WA"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : " Pacific Northwest National Laboratory"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6x_D7IUAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
