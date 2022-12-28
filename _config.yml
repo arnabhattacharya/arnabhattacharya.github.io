@@ -83,10 +83,10 @@ author:
   name             : "Arnab Bhattacharya"
   avatar           : "BhattacharyaWEB-1_crop.jpg"
   bio              : "Operations Research Scientist"
-  location         : "Seattle, WA"
   employer         : "Pacific Northwest National Laboratory"
+  location         : "Seattle, WA"
   googlescholar    : "https://scholar.google.com/citations?user=6x_D7IUAAAAJ&hl=en"
-  email            : "arnab.bhattacharya@pnnl.gov"
+  github           : "arnabhattacharya"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "arnabhattacharya"
   google_plus      :
   keybase          :
   instagram        :
@@ -114,6 +113,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  email            : "arnab.bhattacharya@pnnl.gov"
 
 
 # Reading Files
